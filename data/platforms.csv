@@ -1,0 +1,6 @@
+platform_id,name,language,level_min,level_max,format,price,certification,quality,platform_url
+1,freeCodeCamp,Python,Beginner,Advanced,Mix,Free,1,4.8,https://www.freecodecamp.org
+2,OpenClassrooms,Python,Beginner,Advanced,Video,Paid,1,4.5,https://openclassrooms.com/fr/
+3,Coursera,Java,Intermediate,Advanced,Video,Paid,1,4.6,https://www.coursera.org/
+4,W3Schools,JavaScript,Beginner,Intermediate,Text,Free,0,4.2,https://www.w3schools.com/
+5,CS50 Harvard,C++,Beginner,Advanced,Video,Free,1,4.9,https://cs50.harvard.edu/x/

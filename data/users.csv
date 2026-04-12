@@ -1,0 +1,31 @@
+user_id,level,language,goal,format,time,budget
+1,Advanced,Python,Discovery,Hands-on,7,Free
+2,Beginner,Java,Certification,Text,13,Free
+3,Advanced,JavaScript,Discovery,Text,4,Free
+4,Beginner,Python,Certification,Text,14,Paid
+5,Beginner,JavaScript,Certification,Video,15,Free
+6,Beginner,JavaScript,Professional skills,Video,5,Free
+7,Intermediate,Python,Discovery,Video,4,Paid
+8,Intermediate,C++,Discovery,Hands-on,10,Free
+9,Intermediate,Python,Certification,Video,13,Paid
+10,Advanced,Java,Certification,Text,3,Free
+11,Intermediate,Python,Discovery,Text,9,Paid
+12,Intermediate,C++,Discovery,Video,8,Free
+13,Advanced,C++,Certification,Hands-on,13,Free
+14,Advanced,Java,Certification,Hands-on,6,Free
+15,Intermediate,JavaScript,Professional skills,Hands-on,14,Free
+16,Advanced,C++,Discovery,Text,3,Paid
+17,Intermediate,C++,Discovery,Text,12,Paid
+18,Beginner,JavaScript,Professional skills,Hands-on,10,Free
+19,Intermediate,Java,Discovery,Hands-on,11,Paid
+20,Advanced,JavaScript,Certification,Video,8,Free
+21,Beginner,JavaScript,Discovery,Text,4,Free
+22,Advanced,Java,Certification,Video,12,Free
+23,Intermediate,JavaScript,Certification,Video,11,Paid
+24,Advanced,Python,Certification,Hands-on,4,Paid
+25,Advanced,C++,Discovery,Video,9,Free
+26,Intermediate,Python,Certification,Hands-on,7,Free
+27,Advanced,Python,Certification,Video,13,Free
+28,Beginner,C++,Discovery,Hands-on,15,Free
+29,Advanced,C++,Professional skills,Text,4,Paid
+30,Intermediate,Java,Discovery,Text,12,Free
