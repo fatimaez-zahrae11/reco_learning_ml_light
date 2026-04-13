@@ -12,9 +12,9 @@ This project uses **Machine Learning (KMeans clustering)** combined with a **wei
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshots/app1.png)
-![App Screenshot](screenshots/app2.png)
-![App Screenshot](screenshots/app3.png)
+![App Screenshot](screenshots/app1.jpg)
+![App Screenshot](screenshots/app2.jpg)
+![App Screenshot](screenshots/app3.jpg)
 
 
 ---
