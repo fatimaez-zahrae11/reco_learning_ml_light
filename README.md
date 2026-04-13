@@ -47,11 +47,16 @@ reco_learning_ml_light/
 │   ├── clustering.py       # KMeans clustering
 │   ├── recommend.py        # Recommendation engine
 │   └── visualize_clusters.py
+├── screenshots/
+│   ├── app1.jpg            # Screenshot 1
+│   ├── app2.jpg            # Screenshot 2
+│   └── app3.jpg            # Screenshot 3
 ├── app.py                  # Streamlit app (main entry point)
 ├── generate_data.py        # Synthetic data generator
-├── .env   
-|__ .gitignore              # 🔒 secrets (not pushed to GitHub)
-└──  README.md
+├── requirements.txt        # Project dependencies
+├── .env                    # 🔒 secrets (not pushed to GitHub)
+├── .gitignore
+└── README.md
 ```
 
 ---
