@@ -153,6 +153,14 @@ matplotlib
 
 ---
 
+## 🔮 Roadmap / Coming Soon
+
+- [ ] 📝 Feedback system — users will be able to rate platforms after using them
+- [ ] 🔄 Collaborative filtering based on collected feedback
+- [ ] 📊 Enhanced cluster visualization in the app
+
+---
+
 ## 👤 Author
 
 Fatima Ez-Zahrae Computer Engineering Student ENSA , Kénitra
